@@ -1,0 +1,17 @@
+Package: metsolchem
+Type: Package
+Title: Methods in Solutions Chemistry
+Version: 0.1.0
+Authors@R: c(
+    person("Cristhian", "Paredes", email = "craparedesca@unal.edu.co",
+    role = c("aut", "cre")),
+    person("Eduardo", "Rodriguez de San Miguel", email = "erdsm@unam.mx", 
+    role = "aut"))
+Maintainer: Cristhian Paredes <craparedesca@unal.edu.co>
+Description: Graphical and numerical methods to describe chemical systems
+    in solution phase. 
+License: GPL (>= 2)
+URL: https://github.com/Crparedes/metsolchem
+BugReports: https://github.com/Crparedes/metsolchem/issues
+Encoding: UTF-8
+LazyData: true
